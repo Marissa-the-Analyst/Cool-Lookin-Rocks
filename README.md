@@ -1,11 +1,14 @@
 # Cool-Lookin-Rocks
 This Tableau project transforms my personal collection into a fun, interactive dashboard. By blending Figma design with custom data shapes, I’ve mapped out everything from color trends to quartz counts. It’s a playful proof-of-concept showing that even a simple jar of rocks can tell a beautiful data story.
 
+<img width="1280" height="834" alt="coollookinrocks" src="https://github.com/user-attachments/assets/a26af8a3-7117-4d37-b60a-18e4383df2af" />
+
+
 # Goals 
 To visualize my rock collection. I just had to put it into storage and I’ve always been fond of it. When you see it stacked in a jar or spread about a space, it’s hard to see what spread of data you have. All together on the sheet is much clearer + I learned more about my collection! 
 
 # Finished Project: 
-Sift through my rock collection on Tableau Public [here] <br> 
+Sift through my rock collection on Tableau Public [here](https://public.tableau.com/app/profile/marissa.nash/viz/rockcollection/CoolLookinRocks) <br> 
 <br> 
 **Deliverables** 
 - A Tableau Public Dashboard 
