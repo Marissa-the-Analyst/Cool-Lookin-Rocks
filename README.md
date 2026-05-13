@@ -61,6 +61,7 @@ To achieve this, we reworked the rock page and created a dummy column and rows c
 # Credits 
 - [Textured Sand](https://www.pexels.com/photo/close-up-of-sandy-beach-texture-in-harris-scotland-34208456/)
 - [Rock Icon](https://www.flaticon.com/free-icon/rocks_17943980?term=rock&page=1&position=66&origin=search&related_id=17943980)
+- [Vote Icon](https://www.flaticon.com/free-icon/vote_2839143?term=vote+box&page=1&position=93&origin=search&related_id=2839143)
 - [Rock Tray Reference Photo](https://nantahalagemmine.com/wp-content/uploads/2025/04/gems-mined2-980x735.jpg)
 
 # Reflection: 
